@@ -42,7 +42,7 @@ end
 
 if not shared.VapeDeveloper then
 	local _, subbed = pcall(function()
-		return game:HttpGet('https://github.com/7GrandDadPGN/VapeCompiled')
+		return game:HttpGet('https://github.com/DustysLeftPocket/VapeCompiled')
 	end)
 
 	local assetVer = '1'
